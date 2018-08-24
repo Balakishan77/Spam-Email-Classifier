@@ -6,7 +6,7 @@
  
 ![with lier](https://user-images.githubusercontent.com/40944675/44002023-a89200e2-9e59-11e8-923b-a2c3b074c2ec.png)
 
-we can see some extreme outliers, we'll set a threshold for length of text (here 10000, have not applied this threshold in algotithm implementaion) and plot the histogram again
+we can see some extreme outliers, we'll set a threshold for length of text (here threshold is 10000, I have not applied this threshold in algotithm implementaion) and plot the histogram again
 
 ![with outlier](https://user-images.githubusercontent.com/40944675/44002036-dabc7430-9e59-11e8-8a0d-e950527fdbe6.png)
 
