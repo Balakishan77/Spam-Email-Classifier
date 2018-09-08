@@ -98,7 +98,7 @@ plt.plot(train_sizes, test_mean, color="#111111", label="Cross-validation score"
 
 # Create plot
 plt.title("Learning Curve")
-plt.xlabel("Training Set Size"), plt.ylabel("Accuracy Score"), plt.legend(loc="lower right")
+plt.xlabel("Training Set Size"), plt.ylabel("Accuracy Score"), plt.legend(loc="upper right")
 plt.tight_layout()
 plt.show()
 
